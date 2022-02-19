@@ -1,0 +1,35 @@
+{
+    "name": "sbdoggospassthroughbot",
+    "version": "1.0.0",
+    "description": "My discord bot",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Puppy681Nuff",
+    "license": "ISC",
+    "dependencies": {
+        "@discordjs/builders": "^0.12.0",
+        "@discordjs/rest": "^0.3.0",
+        "@discordjs/voice": "^0.8.0",
+        "axios": "^0.24.0",
+        "cross-fetch": "^3.1.4",
+        "discord-api-types": "^0.27.1",
+        "discord.js": "^13.6.0",
+        "ffmpeg-static": "^4.4.0",
+        "fs": "^0.0.1-security",
+        "hypixel-api": "^1.2.0",
+        "hypixel-api-reborn": "^9.0.3",
+        "hypixie": "^1.0.0",
+        "JSON": "^1.0.0",
+        "libsodium": "^0.7.9",
+        "mineflayer": "^3.11.2",
+        "mojang-api": "^0.0.2",
+        "mongoose": "^6.1.8",
+        "ms": "^2.1.2",
+        "node-fetch": "^3.1.0",
+        "opusscript": "^0.0.8",
+        "yt-search": "^2.10.2",
+        "ytdl-core": "^4.9.2"
+    }
+}
